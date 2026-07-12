@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gangadharjhaa/DSA/tree/master/0015-3sum) |
+| [0724-find-pivot-index](https://github.com/gangadharjhaa/DSA/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gangadharjhaa/DSA/tree/master/0015-3sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/gangadharjhaa/DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
