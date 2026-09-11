@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/gangadharjhaa/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/gangadharjhaa/DSA/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/gangadharjhaa/DSA/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gangadharjhaa/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0303-range-sum-query-immutable](https://github.com/gangadharjhaa/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/gangadharjhaa/DSA/tree/master/0724-find-pivot-index) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/gangadharjhaa/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/gangadharjhaa/DSA/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/gangadharjhaa/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/gangadharjhaa/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gangadharjhaa/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/gangadharjhaa/DSA/tree/master/0344-reverse-string) |
@@ -52,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/gangadharjhaa/DSA/tree/master/0012-integer-to-roman) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/gangadharjhaa/DSA/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/gangadharjhaa/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/gangadharjhaa/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
