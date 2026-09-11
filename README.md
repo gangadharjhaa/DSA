@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/gangadharjhaa/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/gangadharjhaa/DSA/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/gangadharjhaa/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gangadharjhaa/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/gangadharjhaa/DSA/tree/master/0012-integer-to-roman) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gangadharjhaa/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -66,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gangadharjhaa/DSA/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/gangadharjhaa/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/gangadharjhaa/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
