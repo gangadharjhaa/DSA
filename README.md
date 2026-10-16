@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/gangadharjhaa/DSA/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gangadharjhaa/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/gangadharjhaa/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/gangadharjhaa/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/gangadharjhaa/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/gangadharjhaa/DSA/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/gangadharjhaa/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gangadharjhaa/DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/gangadharjhaa/DSA/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/gangadharjhaa/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/gangadharjhaa/DSA/tree/master/0219-contains-duplicate-ii) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gangadharjhaa/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gangadharjhaa/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gangadharjhaa/DSA/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/gangadharjhaa/DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
