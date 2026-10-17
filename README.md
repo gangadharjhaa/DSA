@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/gangadharjhaa/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/gangadharjhaa/DSA/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/gangadharjhaa/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/gangadharjhaa/DSA/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/gangadharjhaa/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/gangadharjhaa/DSA/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/gangadharjhaa/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/gangadharjhaa/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gangadharjhaa/DSA/tree/master/0344-reverse-string) |
 ## Design
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/gangadharjhaa/DSA/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/gangadharjhaa/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gangadharjhaa/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/gangadharjhaa/DSA/tree/master/0242-valid-anagram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gangadharjhaa/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gangadharjhaa/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
