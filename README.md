@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/gangadharjhaa/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/gangadharjhaa/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gangadharjhaa/DSA/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/gangadharjhaa/DSA/tree/master/0383-ransom-note) |
 ## Design
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gangadharjhaa/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gangadharjhaa/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/gangadharjhaa/DSA/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/gangadharjhaa/DSA/tree/master/0383-ransom-note) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gangadharjhaa/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gangadharjhaa/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/gangadharjhaa/DSA/tree/master/0383-ransom-note) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gangadharjhaa/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Linked List
 |  |
