@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gangadharjhaa/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gangadharjhaa/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/gangadharjhaa/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/gangadharjhaa/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Design
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/gangadharjhaa/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/gangadharjhaa/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/gangadharjhaa/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/gangadharjhaa/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gangadharjhaa/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gangadharjhaa/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/gangadharjhaa/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/gangadharjhaa/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gangadharjhaa/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Linked List
 |  |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/gangadharjhaa/DSA/tree/master/0219-contains-duplicate-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/gangadharjhaa/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
