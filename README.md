@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/gangadharjhaa/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/gangadharjhaa/DSA/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/gangadharjhaa/DSA/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/gangadharjhaa/DSA/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gangadharjhaa/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/gangadharjhaa/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gangadharjhaa/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/gangadharjhaa/DSA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/gangadharjhaa/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gangadharjhaa/DSA/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/gangadharjhaa/DSA/tree/master/0066-plus-one) |
 ## Dynamic Programming
 |  |
 | ------- |
